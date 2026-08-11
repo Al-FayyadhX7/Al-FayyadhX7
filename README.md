@@ -6,7 +6,7 @@ I explore the intersections of normative moral philosophy, regulatory compliance
 ---
 
 ### 🔬 Core Research & Projects
-* **[AI Ethics & Alignment Simulator](https://github.com/Al-FayyadhX7/ai-ethics-hub-en):** An interactive Streamlit dashboard modeling normative dilemmas (Utilitarianism vs. Kantian Deontology) and risk classification frameworks for autonomous AI.
+* **[AI Ethics & Alignment Simulator](https://github.com/Al-FayyadhX7/EthicAlign-Lab):** An interactive Streamlit dashboard modeling normative dilemmas (Utilitarianism vs. Kantian Deontology) and risk classification frameworks for autonomous AI.
   * 🌐 **Live Demo:** [Streamlit App](https://ai-ethics-app-en-myw2hirk2xhvxoqkspd225.streamlit.app/)
 
 ---
