@@ -1,5 +1,20 @@
-## Hi there 👋
+# Hi, I'm Abiyyu Fayyadh 👋
+**Independent Researcher in AI Alignment, Ethics & Interdisciplinary Philosophy**
 
+I explore the intersections of normative moral philosophy, regulatory compliance (e.g., EU AI Act), and computational decision-making in autonomous systems.
+
+---
+
+### 🔬 Core Research & Projects
+* **[AI Ethics & Alignment Simulator](https://github.com/Al-FayyadhX7/ai-ethics-hub-en):** An interactive Streamlit dashboard modeling normative dilemmas (Utilitarianism vs. Kantian Deontology) and risk classification frameworks for autonomous AI.
+  * 🌐 **Live Demo:** [Streamlit App](https://ai-ethics-app-en-myw2hirk2xhvxoqkspd225.streamlit.app/)
+
+---
+
+### 📚 Academic Profiles & Links
+* 📄 **PhilPeople:** [philpeople.org/profiles/abiyyu-fayyadh](https://philpeople.org/profiles/abiyyu-fayyadh)
+* 💼 **LinkedIn:** [Abiyyu Fayyadh](https://linkedin.com/in/abiyyu-fayyadh-0a4578293)
+* ✉️ **Email:** abiyyu.6683@gmail.com
 <!--
 **Al-FayyadhX7/Al-FayyadhX7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
